@@ -1,2 +1,4 @@
-# eyinsma.github.io
-samuel's life, samuel's way.
+# Samuel's Blog
+
+Samuel's life, Samuel's way...
+

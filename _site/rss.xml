@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Samuel's Blog</title>
+        <description>Samuel's Blog - Samuel MA</description>
+        <link>http://eyinsma.github.io</link>
+        <link>http://eyinsma.github.io</link>
+        <lastBuildDate>2015-02-01T23:44:22+08:00</lastBuildDate>
+        <pubDate>2015-02-01T23:44:22+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Startfromhere</title>
+                <description>
+&lt;h2 id=&quot;try-blog-on-github&quot;&gt;Try blog on github&lt;/h2&gt;
+</description>
+                <link>http://eyinsma.github.io/2012/12/31/StartFromHere</link>
+                <guid>http://eyinsma.github.io/2012/12/31/StartFromHere</guid>
+                <pubDate>2012-12-31T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
